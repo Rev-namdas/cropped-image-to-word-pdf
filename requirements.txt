@@ -1,0 +1,5 @@
+pip install numpy
+pip install Pillow
+pip install docx2txt
+pip install python-docx
+pip install docx2pdf
